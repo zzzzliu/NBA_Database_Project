@@ -1,0 +1,31 @@
+id,name,arena,fromDate,,championship,win,lose
+1,Atlanta Hawks,Philips Arena,'1947-01-01',,2,44,38
+2,Boston Celtics,TD Banknorth Garden,1947-01-01',,1,56,26
+3,Charlotte Bobcats,Time Warner Cable Arena,'1947-01-01',,5,34,48
+4,Chicago Bulls,United Center,'1947-01-01',,1,62,20
+5,Cleveland Cavaliers,Quicken Loans Arena,'1947-01-01',,5,19,63
+6,Dallas Mavericks,American Airlines Center,'1947-01-01',,3,57,25
+7,Denver Nuggets,Pepsi Center,'1947-01-01',,2,50,32
+8,Detroit Pistons,The Palace of Auburn Hills,'1947-01-01',,4,30,52
+9,Golden State Warriors,Oracle Arena,'1947-01-01',,4,36,46
+10,Houston Rockets,Toyota Center,'1947-01-01',,4,43,39
+11,Indiana Pacers,Conseco Fieldhouse,'1947-01-01',,2,37,45
+12,Los Angeles Clippers,Staples Center,'1947-01-01',,2,32,50
+13,Los Angeles Lakers,Staples Center,'1947-01-01',,1,57,25
+14,Memphis Grizzlies,FedExForum,'1947-01-01',,2,46,36
+15,Miami Heat,AmericanAirlines Arena,'1947-01-01',,1,58,24
+16,Milwaukee Bucks,Bradley Center,'1947-01-01',,3,35,47
+17,Minnesota Timberwolves,Target Center,'1947-01-01',,5,17,65
+18,New Jersey Nets,Izod Center,'1947-01-01',,5,24,58
+19,New Orleans Hornets,New Orleans Arena,'1947-01-01',,5,46,36
+20,New York Knicks,Madison Square Garden (IV),'1947-01-01',,2,42,40
+21,Oklahoma City Thunder,Ford Center,'1947-01-01',,1,55,27
+22,Orlando Magic,Amway Arena,'1947-01-01',,3,52,30
+23,Philadelphia 76ers,Wachovia Center,'1947-01-01',,3,41,41
+24,Phoenix Suns,US Airways Center,'1947-01-01',,3,40,42
+25,Portland Trail Blazers,Rose Garden Arena,'1947-01-01',,4,48,34
+26,Sacramento Kings,ARCO Arena (II),'1947-01-01',,5,24,58
+27,San Antonio Spurs,AT&T Center,'1947-01-01',,1,61,21
+28,Toronto Raptors,Air Canada Centre,'1947-01-01',,3,22,60
+29,Utah Jazz,EnergySolutions Arena,'1947-01-01',,4,39,43
+30,Washington Wizards,Verizon Center,'1947-01-01',,1,23,59
